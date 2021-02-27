@@ -2,4 +2,4 @@
 
 ## Laboratorio - Módulo 7 - Cloud
 
-Ejercicio básico, despliege continuo Github Actions.
+Ejercicio básico, despliege continuo con Github Actions.
